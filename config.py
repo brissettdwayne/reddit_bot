@@ -1,0 +1,5 @@
+username      = 'AyeeDwaynee'
+password      = 'bd9141'
+client_id     = 'K8VhuD27ozF5ZA'
+client_secret = 'KyuRg-dHNMT384gKo02L-7qTuGo'
+user_agent    = 'PythonReddit Bot v0.1'
